@@ -18,13 +18,13 @@
 
 - 🤝 I’m looking for help with Fullstack Projects [Projeccts](https://github.com/NavAneEth777/FULL-STACK-WEB-DEVELOPMENT)
 
-- 👨‍💻 All of my projects are available at [https://navaneethalluri.carrd.co/](https://navaneethalluri.carrd.co/)
+- 👨‍💻 All of my projects are available at [https://navaneeth-alluri-portfolio.vercel.app/](https://navaneeth-alluri-portfolio.vercel.app/)
 
 - 💬 Ask me about **Flask, Frontend, Html, Css, Js**
 
 - 📫 How to reach me **allurinavaneeth30@gmail.com**
 
-- 📄 Know about my experiences [https://navaneethalluri.carrd.co/](https://navaneethalluri.carrd.co/)
+- 📄 Know about my experiences [https://navaneeth-alluri-portfolio.vercel.app/](https://navaneeth-alluri-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
